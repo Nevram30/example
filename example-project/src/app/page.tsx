@@ -37,6 +37,7 @@ export default async function Home() {
                 Learn more about Create T3 App, the libraries it uses, and how
                 to deploy it.
               </div>
+              <div>Hello World!</div>
             </Link>
           </div>
           <div className="flex flex-col items-center gap-2">
